@@ -2,3 +2,7 @@
 test merging main branch to new branch
 edit from web
 Edit from local
+<<<<<<< HEAD
+=======
+Edit from branch test
+>>>>>>> newBranch
